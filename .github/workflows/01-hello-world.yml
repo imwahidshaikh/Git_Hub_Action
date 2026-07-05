@@ -15,7 +15,7 @@ jobs:
 
     steps:
       - name: Print a message
-        run: echo "Hello from GitHub Actions and I m testing!"
+        run: echo "Hello from GitHub Actions and I m testing by pushing code to git!"
 
       - name: Print the date
         run: date
